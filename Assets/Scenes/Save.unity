@@ -243,7 +243,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db5a50827cac3422186ab26457fc14f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tetrominoes: []
+  tetrominoes:
+  - {fileID: 6763358308109540221, guid: 54bb91950b44a4cdf9012da474b95044, type: 3}
+  - {fileID: 2123004278898116394, guid: 1a5aa08a4ccee4e54ab2effe66db1e8c, type: 3}
+  - {fileID: 4052688422254773867, guid: 54647db5ce1e542b9bb094adfddc6d86, type: 3}
+  - {fileID: 1013925338314872433, guid: a985bd7cad08945b1bccf64d68e0e996, type: 3}
+  - {fileID: 5818840591179393603, guid: 475c5353c439c46f0b6dbe02aca108d1, type: 3}
+  - {fileID: 9217994051273214503, guid: 4584158a9c4bb4a16b72129394b1db8c, type: 3}
+  - {fileID: 7015679557864427963, guid: 54860d0e53fda4b738b7d0e7d27adeb0, type: 3}
 --- !u!4 &1363047653
 Transform:
   m_ObjectHideFlags: 0
